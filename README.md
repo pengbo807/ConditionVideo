@@ -1,8 +1,7 @@
 # ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation
 ### [Project Page](https://pengbo807.github.io/conditionvideo-website/) | [Paper](https://arxiv.org/abs/2310.07697)
-This is the official PyTorch implementation of paper "ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation"
-
 [Bo Peng](https://pengbo807.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ&hl=zh-CN), [Yaohui Wang](https://wyhsirius.github.io/), [Chaochao Lu](https://causallu.com/), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en)
+This is the official PyTorch implementation of paper "ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation"
 
 Our model generates realistic dynamic videos from random noise or given scene videos based on given conditions. Currently, we support openpose keypoint, canny, depth and segment condition.
 
