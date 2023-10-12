@@ -12,7 +12,7 @@ Our model generates realistic dynamic videos from random noise or given scene vi
 
 |pose|customized pose|
 |:-:|:-:|
-|<img src="videos/62-53-The Astronaut, brown background.gif" width="200"><br> The Astronaut, brown background|<img src="videos/1-2-18-ironman in the sea.gif" width="300"><br> ironman in the sea|
+|<img src="videos/62-53-The Astronaut, brown background.gif" width="200"><br> The Astronaut, brown background|<img src="videos/1-2-18-ironman in the sea.gif" width="300"><br> Ironman in the sea|
 ## Setup
 To install the environments, use:
 ```
