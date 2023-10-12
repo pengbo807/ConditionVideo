@@ -8,7 +8,7 @@ Our model generates realistic dynamic videos from random noise or given scene vi
 
 |canny|segment|depth|
 |:-:|:-:|:-:|
-|<img src="videos/0-0-road at night, oil painting style.gif" width="200"><br> a dog, comicbook style |<img src="videos/jellyfish.gif" width="200"><br> a red jellyfish, pastel colours.|<img src="videos/1-0-a horse under a blue sky.gif" width="200"><br> a horse under a blue sky.|
+|<img src="videos/0-0-road at night, oil painting style.gif" width="200"><br> A dog, comicbook style |<img src="videos/jellyfish.gif" width="200"><br> A red jellyfish, pastel colours.|<img src="videos/1-0-a horse under a blue sky.gif" width="200"><br> A horse under a blue sky.|
 
 |pose|customized pose|
 |:-:|:-:|
