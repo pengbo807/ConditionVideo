@@ -34,4 +34,12 @@ accelerate launch --num_processes 1 conditionvideo.py --config="configs//config.
 for video generation, change the configuration in `config.yaml` for different generation settings.
 ## Citation
 ```
+@misc{peng2023conditionvideo,
+      title={ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation}, 
+      author={Bo Peng and Xinyuan Chen and Yaohui Wang and Chaochao Lu and Yu Qiao},
+      year={2023},
+      eprint={2310.07697},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
