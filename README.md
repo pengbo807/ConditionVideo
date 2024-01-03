@@ -1,4 +1,4 @@
-# ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation
+# ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation (AAAI 2024)
 [Bo Peng](https://pengbo807.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ&hl=zh-CN), [Yaohui Wang](https://wyhsirius.github.io/), [Chaochao Lu](https://causallu.com/), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en)
 
 ### [Project Page](https://pengbo807.github.io/conditionvideo-website/) | [Paper](https://arxiv.org/abs/2310.07697)
