@@ -23,10 +23,10 @@ from diffusers.utils.import_utils import is_xformers_available
 from tqdm.auto import tqdm
 from transformers import CLIPTextModel, CLIPTokenizer
 
-from conditionvideo.models.unet import UNet3DConditionModel
-from conditionvideo.data.dataset import ConditionVideoDataset
-from conditionvideo.pipelines.pipeline_conditionvideo import ConditionVideoPipeline
-from conditionvideo.util import save_videos_grid, ddim_inversion
+from ConditionVideo.models.unet import UNet3DConditionModel
+from ConditionVideo.data.dataset import ConditionVideoDataset
+from ConditionVideo.pipelines.pipeline_conditionvideo import ConditionVideoPipeline
+from ConditionVideo.util import save_videos_grid, ddim_inversion
 from einops import rearrange
 from datetime import datetime
 import imageio
